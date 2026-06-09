@@ -20,4 +20,4 @@
  * This package provides an HTTP sink for Flume so that events can be sent out
  * to a target HTTP endpoint.
  */
-package org.apache.flume.sink.http;
+package org.apache.flume.http.sink;
