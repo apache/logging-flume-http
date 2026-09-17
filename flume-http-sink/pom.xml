@@ -37,7 +37,7 @@
     <!-- wiremock-jetty12 is compiled/tested against Jetty 12.0.30; the parent POM pins the
          Jetty artifacts it shares (jetty-server/http/io/security/util) to a newer 12.1.x line
          for the ee11 Jetty stack used elsewhere, which is binary-incompatible with wiremock-jetty12. -->
-    <jetty.version>12.0.30</jetty.version>
+    <jetty.version>12.0.35</jetty.version>
   </properties>
 
   <dependencyManagement>
